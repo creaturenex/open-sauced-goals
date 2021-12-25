@@ -1,15 +1,15 @@
 [
   {
     "full_name": "socketry/async",
-    "stargazers_count": 1485,
+    "stargazers_count": 1490,
     "open_issues_count": 18,
     "forks_count": 54
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 31708,
-    "open_issues_count": 35,
-    "forks_count": 1030
+    "stargazers_count": 31767,
+    "open_issues_count": 40,
+    "forks_count": 1033
   },
   {
     "full_name": "elizabethsiegle/twilio-video-mask-ml5",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "marcduiker/azure-functions-university",
-    "stargazers_count": 212,
-    "open_issues_count": 14,
-    "forks_count": 52
+    "stargazers_count": 216,
+    "open_issues_count": 17,
+    "forks_count": 53
   },
   {
     "full_name": "ganning127/azure-function-bot",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "nodemailer/nodemailer",
-    "stargazers_count": 14362,
-    "open_issues_count": 6,
-    "forks_count": 1240
+    "stargazers_count": 14366,
+    "open_issues_count": 7,
+    "forks_count": 1242
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 21781,
-    "open_issues_count": 9,
-    "forks_count": 1552
+    "stargazers_count": 21804,
+    "open_issues_count": 11,
+    "forks_count": 1557
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 179519,
-    "open_issues_count": 916,
-    "forks_count": 36424
+    "stargazers_count": 179644,
+    "open_issues_count": 921,
+    "forks_count": 36455
   },
   {
     "full_name": "restify/node-restify",
-    "stargazers_count": 10337,
+    "stargazers_count": 10340,
     "open_issues_count": 98,
-    "forks_count": 1000
+    "forks_count": 1001
   },
   {
     "full_name": "ChaelCodes/ConfBuddies",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 34643,
-    "open_issues_count": 32,
-    "forks_count": 7476
+    "stargazers_count": 34653,
+    "open_issues_count": 36,
+    "forks_count": 7487
   },
   {
     "full_name": "trailblazer/trailblazer-rails",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 3,
     "forks_count": 44
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 58583,
-    "open_issues_count": 606,
-    "forks_count": 5670
+    "stargazers_count": 58638,
+    "open_issues_count": 608,
+    "forks_count": 5677
   },
   {
     "full_name": "CodingMoore/soil-ent-green-python",
