@@ -1,15 +1,15 @@
 [
   {
     "full_name": "socketry/async",
-    "stargazers_count": 1557,
+    "stargazers_count": 1559,
     "open_issues_count": 24,
     "forks_count": 58
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 35812,
-    "open_issues_count": 32,
-    "forks_count": 1159
+    "stargazers_count": 35887,
+    "open_issues_count": 35,
+    "forks_count": 1164
   },
   {
     "full_name": "elizabethsiegle/twilio-video-mask-ml5",
@@ -26,7 +26,7 @@
   {
     "full_name": "marcduiker/azure-functions-university",
     "stargazers_count": 232,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 58
   },
   {
@@ -79,32 +79,32 @@
   },
   {
     "full_name": "nodemailer/nodemailer",
-    "stargazers_count": 14548,
-    "open_issues_count": 26,
-    "forks_count": 1264
+    "stargazers_count": 14559,
+    "open_issues_count": 27,
+    "forks_count": 1265
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 22288,
-    "open_issues_count": 3,
-    "forks_count": 1589
+    "stargazers_count": 22320,
+    "open_issues_count": 5,
+    "forks_count": 1592
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 184107,
+    "stargazers_count": 184328,
     "open_issues_count": 964,
-    "forks_count": 37672
+    "forks_count": 37712
   },
   {
     "full_name": "restify/node-restify",
-    "stargazers_count": 10381,
+    "stargazers_count": 10384,
     "open_issues_count": 101,
     "forks_count": 1007
   },
   {
     "full_name": "ChaelCodes/ConfBuddies",
     "stargazers_count": 18,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 14
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "fastruby/skunk",
-    "stargazers_count": 308,
+    "stargazers_count": 311,
     "open_issues_count": 9,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "sbrudz/accelerate-metrics",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "gitlabhq/gitlabhq",
-    "stargazers_count": 22848,
+    "stargazers_count": 22851,
     "open_issues_count": 35,
-    "forks_count": 5684
+    "forks_count": 5686
   },
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 35172,
-    "open_issues_count": 40,
-    "forks_count": 7580
+    "stargazers_count": 35210,
+    "open_issues_count": 41,
+    "forks_count": 7586
   },
   {
     "full_name": "trailblazer/trailblazer-rails",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 60002,
-    "open_issues_count": 610,
-    "forks_count": 5855
+    "stargazers_count": 60070,
+    "open_issues_count": 611,
+    "forks_count": 5865
   },
   {
     "full_name": "CodingMoore/soil-ent-green-python",
@@ -176,7 +176,7 @@
   {
     "full_name": "bitprj/Intro-To-Serverless",
     "stargazers_count": 23,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 20
   }
 ]
