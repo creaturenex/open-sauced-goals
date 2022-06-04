@@ -1,15 +1,15 @@
 [
   {
     "full_name": "socketry/async",
-    "stargazers_count": 1592,
-    "open_issues_count": 21,
+    "stargazers_count": 1593,
+    "open_issues_count": 20,
     "forks_count": 61
   },
   {
     "full_name": "willmcgugan/rich",
-    "stargazers_count": 37812,
-    "open_issues_count": 67,
-    "forks_count": 1251
+    "stargazers_count": 37845,
+    "open_issues_count": 70,
+    "forks_count": 1256
   },
   {
     "full_name": "elizabethsiegle/twilio-video-mask-ml5",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "marcduiker/azure-functions-university",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "open_issues_count": 30,
     "forks_count": 66
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "uhop/stream-json",
-    "stargazers_count": 648,
-    "open_issues_count": 6,
+    "stargazers_count": 649,
+    "open_issues_count": 4,
     "forks_count": 38
   },
   {
@@ -79,32 +79,32 @@
   },
   {
     "full_name": "nodemailer/nodemailer",
-    "stargazers_count": 14728,
+    "stargazers_count": 14771,
     "open_issues_count": 15,
-    "forks_count": 1285
+    "forks_count": 1287
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 22778,
-    "open_issues_count": 3,
+    "stargazers_count": 22799,
+    "open_issues_count": 4,
     "forks_count": 1624
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 188846,
-    "open_issues_count": 939,
-    "forks_count": 38930
+    "stargazers_count": 189016,
+    "open_issues_count": 953,
+    "forks_count": 38976
   },
   {
     "full_name": "restify/node-restify",
-    "stargazers_count": 10425,
-    "open_issues_count": 102,
+    "stargazers_count": 10429,
+    "open_issues_count": 103,
     "forks_count": 1006
   },
   {
     "full_name": "ChaelCodes/ConfBuddies",
     "stargazers_count": 22,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 14
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "fastruby/skunk",
-    "stargazers_count": 351,
+    "stargazers_count": 356,
     "open_issues_count": 10,
     "forks_count": 19
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "gitlabhq/gitlabhq",
-    "stargazers_count": 22919,
+    "stargazers_count": 22928,
     "open_issues_count": 35,
     "forks_count": 5699
   },
   {
     "full_name": "discourse/discourse",
-    "stargazers_count": 35770,
-    "open_issues_count": 51,
-    "forks_count": 7683
+    "stargazers_count": 35785,
+    "open_issues_count": 54,
+    "forks_count": 7688
   },
   {
     "full_name": "trailblazer/trailblazer-rails",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 5,
     "forks_count": 43
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61432,
-    "open_issues_count": 625,
-    "forks_count": 6045
+    "stargazers_count": 61486,
+    "open_issues_count": 626,
+    "forks_count": 6049
   },
   {
     "full_name": "CodingMoore/soil-ent-green-python",
